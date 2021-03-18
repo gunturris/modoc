@@ -1,0 +1,13 @@
+{
+    "name": "modoc/modocdb",
+    "type": "library",
+    "description": "Database private for modoc developer", 
+    "homepage": "https://modoc.id",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guntur Ristiarto",
+            "email": "gunturris@gmail.com" 
+        }
+    ],
+}
