@@ -9,7 +9,7 @@
     }, 
     "autoload": {
         "psr-4": {
-          "Gunturris\\": "src/"
+          "Gunturris\\ModocDB": "src/"
         }
       },
     "authors": [
