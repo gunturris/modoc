@@ -4,6 +4,9 @@
     "description": "Database private for modoc developer", 
     "homepage": "https://modoc.id",
     "license": "MIT",
+    "require": {
+        "php": ">=5.6.3,<8.0"
+    },
     "authors": [
         {
             "name": "Guntur Ristiarto",
