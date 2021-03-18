@@ -13,5 +13,6 @@
             "name": "Guntur Ristiarto",
             "email": "gunturris@gmail.com" 
         }
-    ] 
+    ] ,
+    "minimum-stability": "dev"
 } 
