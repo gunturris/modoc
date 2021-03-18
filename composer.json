@@ -1,6 +1,5 @@
 {
-    "name": "gunturris/modocdb",
-    "type": "library",
+    "name": "gunturris/modocdb", 
     "description": "Database private for modoc developer", 
     "homepage": "https://modoc.id",
     "license": "MIT",
@@ -14,5 +13,16 @@
             "email": "gunturris@gmail.com" 
         }
     ] ,
+    
+    "autoload": {
+        "psr-4": {
+            "Psr\\Http\\Client\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
     "minimum-stability": "stable"
-} 
+}
