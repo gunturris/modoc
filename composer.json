@@ -5,7 +5,7 @@
     "homepage": "https://modoc.id",
     "license": "MIT",
     "require": {
-        "monolog/monolog": "^1.0",
+        "monolog/monolog": "1.0",
         "php": ">=5.6.3"
     },
     "authors": [
