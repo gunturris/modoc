@@ -1,28 +1,17 @@
 {
     "name": "gunturris/modocdb", 
+    "keywords": ["page","paging", "paginator", "pagination"],
     "description": "Database private for modoc developer", 
     "homepage": "https://modoc.id",
     "license": "MIT",
-    "require": {
-        "monolog/monolog": "1.0",
-        "php": ">=5.6.3"
+    "require": { 
+        "php": ">=7.0.*"
     },
     "authors": [
         {
             "name": "Guntur Ristiarto",
             "email": "gunturris@gmail.com" 
         }
-    ] ,
-    
-    "autoload": {
-        "psr-4": {
-            "Psr\\Http\\Client\\": "src/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    },
+    ] , 
     "minimum-stability": "stable"
 }
